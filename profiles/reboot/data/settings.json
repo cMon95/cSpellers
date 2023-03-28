@@ -76,6 +76,7 @@
   },
   "editor.stickyScroll.enabled": true,
   "cSpell.userWords": [
+    "autofetch",
     "githubusercontent",
     "Kimbie",
     "mkdirp",
