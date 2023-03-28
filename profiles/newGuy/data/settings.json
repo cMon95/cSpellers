@@ -1,5 +1,5 @@
 {
-  "syncSettings.resources": ["settings"],
+  "syncSettings.resources": ["extensions", "settings"],
   "syncSettings.crons": {
     "download": "0 * * * *"
   },

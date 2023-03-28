@@ -2,4 +2,5 @@ ignoredSettings:
   - editor.*
   - f2.language.trace.server
 resources:
+  - extensions
   - settings
