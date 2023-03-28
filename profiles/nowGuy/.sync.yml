@@ -1,0 +1,4 @@
+ignoredSettings:
+  - f2.language.trace.server
+resources:
+  - settings
