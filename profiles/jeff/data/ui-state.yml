@@ -103,7 +103,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.hidden: "false"
 workbench.auxiliarybar.size: "300"
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["git-commit",true],["handlebars",true],["javascript",true],["json",true],["markdown",true],["css",true],["xml",true],["asciidoc",true],["yaml",true],["plaintext",true],["jsonc",true],["typescript",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["git-commit",true],["handlebars",true],["javascript",true],["json",true],["markdown",true],["css",true],["xml",true],["asciidoc",true],["typescript",true],["plaintext",true],["yaml",true],["jsonc",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"solutions","isHidden":false},{"id":"pack","isHidden":false},{"id":"environments","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false}]'
 workbench.grid.height: "1040"
 workbench.grid.size: '{"height":1040,"width":1920}'
