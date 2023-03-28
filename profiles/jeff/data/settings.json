@@ -1,5 +1,5 @@
 {
-  "syncSettings.ignoredSettings": ["editors.*"],
+  "syncSettings.ignoredSettings": ["editors.tabSize"],
   "xml.catalogs": ["C:/Projects/ProcessWork/XSD/catalog.xml"],
   "xml.server.preferBinary": true,
   "files.encoding": "utf8bom",
