@@ -1,5 +1,5 @@
 {
-  "syncSettings.resources": ["extensions", "settings"],
+  "syncSettings.resources": ["settings"],
   "syncSettings.crons": {
     "download": "0 * * * *"
   },
@@ -74,12 +74,13 @@
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "editor.stickyScroll.enabled": true,
-  "cSpell.words": [
-    "mkdirp",
-    "tsmerge",
+  "cSpell.userWords": [
     "githubusercontent",
+    "Kimbie",
+    "mkdirp",
     "streetsidesoftware",
-    "vsmarketplacebadge",
-    "visualstudio"
-],
+    "tsmerge",
+    "visualstudio",
+    "vsmarketplacebadge"
+  ],
 }
