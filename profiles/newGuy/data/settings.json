@@ -9,7 +9,7 @@
   "xml.server.preferBinary": true,
   "files.encoding": "utf8bom",
   "files.associations": {
-    "*.config": "xml",
+    "*.config": "xml", 
     "*.txt*": "log"
   },
   "terminal.integrated.defaultProfile.windows": "Powershell",
