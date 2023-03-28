@@ -4,6 +4,7 @@
     "download": "0 * * * *"
   },
   "syncSettings.ignoredSettings": ["editor.*", "f2.language.trace.server"],
+  "syncSettings.notification": "none",
   "xml.catalogs": ["C:/Projects/ProcessWork/XSD/catalog.xml"],
   "xml.server.preferBinary": true,
   "files.encoding": "utf8bom",
