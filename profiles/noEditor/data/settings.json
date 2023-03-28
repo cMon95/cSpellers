@@ -1,5 +1,10 @@
 {
-  "syncSettings.ignoredSettings": ["editors.*", "f2.language.trace.server"],
+  "syncSettings.resources": ["settings"],
+  "syncSettings.crons": {
+    "download": "0 * * * *"
+  },
+  "syncSettings.ignoredSettings": ["f2.language.trace.server"],
+  "syncSettings.openOutputOnActivity": true,
   "xml.catalogs": ["C:/Projects/ProcessWork/XSD/catalog.xml"],
   "xml.server.preferBinary": true,
   "files.encoding": "utf8bom",
