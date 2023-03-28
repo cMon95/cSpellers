@@ -4,7 +4,6 @@
     "download": "0 * * * *"
   },
   "syncSettings.ignoredSettings": ["editor.*", "f2.language.trace.server"],
-  "syncSettings.openOutputOnActivity": true,
   "xml.catalogs": ["C:/Projects/ProcessWork/XSD/catalog.xml"],
   "xml.server.preferBinary": true,
   "files.encoding": "utf8bom",
@@ -16,7 +15,7 @@
   "terminal.integrated.profiles.windows": {
     "Powershell": {
       "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-      "args": []
+      "args": [] 
     }
   },
   "editor.minimap.enabled": true,
