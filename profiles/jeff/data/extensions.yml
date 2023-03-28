@@ -1,0 +1,52 @@
+disabled:
+  - id: callegustafsson.vscode-perforce-simple
+    uuid: 3226fe1a-0ed1-4704-993f-747be645aebc
+  - id: hbenl.vscode-test-explorer
+    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
+enabled:
+  - id: asciidoctor.asciidoctor-vscode
+    uuid: c1309cc2-f420-46a3-b2be-ca04f4d9e51b
+  - id: cBrainF2.language
+    uuid: 904ade4e-581d-4ddc-836e-beaf346a0032
+  - id: cBrainF2.preview
+    uuid: 17fbcfd0-5280-48aa-b020-12c6b613fee4
+  - id: cBrainF2.snippets
+    uuid: f3a23161-3819-41bc-92fe-9d1846c58100
+  - id: cBrainF2.syntax-highlight
+    uuid: 61d04959-cc4a-41c9-bfc4-6305464677df
+  - id: cBrainF2.workbench
+    uuid: 70f50ae6-d1a7-4b56-8967-0df120a6fef6
+  - id: draivin.hscopes
+    uuid: cbe19d3b-d390-40f9-92a5-561a1f132249
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: ecmel.vscode-html-css
+    uuid: aaee577c-f062-495a-9816-0cbd442f1d25
+  - id: emilast.LogFileHighlighter
+    uuid: e8b488af-fccf-4adf-b60c-fc7455bea107
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-dotnettools.csharp
+    uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
+  - id: ms-vscode.powershell
+    uuid: 40d39ce9-c381-47a0-80c8-a6661f731eab
+  - id: ms-vscode.test-adapter-converter
+    uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
+  - id: ms-vscode.vscode-typescript-tslint-plugin
+    uuid: 90a37ca1-92a2-488a-b196-7a8c0b0127ea
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
+  - id: octref.vetur
+    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
+  - id: redhat.vscode-xml
+    uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: tht13.html-preview-vscode
+    uuid: 76fbde36-77d4-4688-b1f8-202727442961
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

@@ -1,0 +1,73 @@
+{
+  "xml.catalogs": ["C:/Projects/ProcessWork/XSD/catalog.xml"],
+  "xml.server.preferBinary": true,
+  "files.encoding": "utf8bom",
+  "files.associations": {
+    "*.config": "xml",
+    "*.txt*": "log"
+  },
+  "terminal.integrated.defaultProfile.windows": "Powershell",
+  "terminal.integrated.profiles.windows": {
+    "Powershell": {
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": []
+    }
+  },
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 60,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.snippetSuggestions": "bottom",
+  "editor.suggestSelection": "first",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "source.f2.embedded.uirules",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      }
+    ]
+  },
+  "f2.quicktry.envFilter": ["PreProd", "Prod", "Test", "tester1"],
+  "git.autofetch": true,
+  "git.suggestSmartCommit": false,
+  "gitlens.defaultDateShortFormat": "DD/MM YYYY",
+  "gitlens.defaultDateFormat": "DD MMMM YYYY hh:mm",
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "off",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.experimentalAutoLockGroups": {
+    "mainThreadWebview-markdown.preview": true,
+    "mainThreadWebview-f2.preview": true
+  },
+  "gitlens.advanced.messages": {
+    "suppressGitDisabledWarning": true,
+    "suppressGitMissingWarning": true
+  },
+  "workbench.colorTheme": "Kimbie Dark",
+  "f2.language.trace.server": "messages",
+  "git.confirmSync": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "xml.preferences.showSchemaDocumentationType": "none",
+  "xml.server.binary.trustedHashes": [
+    "34f51b1d8c3b85bf8af72502c3a52ca841d11cf76f848be198631e0dd2b7e169"
+  ],
+  "testExplorer.useNativeTesting": true,
+  "testing.alwaysRevealTestOnStateChange": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.stickyScroll.enabled": true
+}
