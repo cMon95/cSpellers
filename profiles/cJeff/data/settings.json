@@ -8,7 +8,7 @@
     "download": "1 * * * *"
   },
   "syncSettings.hooks.postUpload": [
-    "powershell .\\fix_cspell.ps1"
+    "powershell ~globalStorage/../fix_cspell.ps1"
   ],
   "xml.catalogs": ["C:/Projects/ProcessWork/XSD/catalog.xml"],
   "xml.server.preferBinary": true,
