@@ -1,7 +1,7 @@
-﻿{
-  // "flagWords": [
-  //   "dropdownmenu: dropdown-menu, drop-down menu"
-  // ],
+{
+  "flagWords": [
+    "dropdownmenu: dropdown-menu, drop-down menu"
+  ],
   "ignoreRegExpList": [
     "CStyleComment"
   ],
