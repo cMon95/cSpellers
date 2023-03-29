@@ -1,3 +1,48 @@
 ﻿{
-  
+  // "flagWords": [
+  //   "dropdownmenu: dropdown-menu, drop-down menu"
+  // ],
+  "ignoreRegExpList": [
+    "CStyleComment"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "AsciiDoc",
+      "path": "dictionaries/asciidoc.txt"
+    },
+    {
+      "name": "F2TermsEnGB",
+      "path": "dictionaries/f2-en-gb.txt",
+      "scope": "workspace",
+      "addWords": false
+    },
+    {
+      "name": "F2TermsDaDK",
+      "path": "dictionaries/f2-da-dk.txt"
+    }
+  ],
+  "dictionaries": [
+    "AsciiDoc"
+  ],
+  "languageSettings": [
+    {
+      "languageId": "*",
+      "locale": "en-GB",
+      "flagWords": ["dropdownmenu: dropdown-menu"],
+      "dictionaries": [
+        "wordsEnGb",
+        "F2TermsEnGB"
+      ]
+    },
+    {
+      "languageId": "*",
+      "locale": "da-DK",
+      "allowCompoundWords": true,
+      "dictionaries": [
+        "F2TermsDaDK"
+      ]
+    }
+  ]
 }
+
+
