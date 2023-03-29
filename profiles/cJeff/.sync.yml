@@ -1,3 +1,4 @@
-resources: []
+resources:
+  - settings
 additionalFiles:
   - ~globalStorage/../cspell.json
