@@ -1,6 +1,3 @@
-ignoredSettings:
-  - editor.*
-  - f2.language.trace.server
 resources: []
 additionalFiles:
   - ~globalStorage/../cspell.json
