@@ -77,5 +77,5 @@
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "editor.stickyScroll.enabled": true,
-  "f2.language.trace.server": "messages",
+  "f2.language.trace.server": "messages"
 }
